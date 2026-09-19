@@ -6,9 +6,9 @@ This repository contains the completed CI/CD implementation for Part 11 of the U
 
 ## 🔗 Links (Exercise 11.23)
 
-- **Live Deployed Application**: [https://fs-pokedex-4bka.onrender.com](https://fs-pokedex-4bka.onrender.com)
-- **Health Check Endpoint**: [https://fs-pokedex-4bka.onrender.com/health](https://fs-pokedex-4bka.onrender.com/health)
-- **Version Endpoint**: [https://fs-pokedex-4bka.onrender.com/version](https://fs-pokedex-4bka.onrender.com/version)
+- **Live Deployed Application**: [https://fs-pokedex-4yka.onrender.com](https://fs-pokedex-4yka.onrender.com)
+- **Health Check Endpoint**: [https://fs-pokedex-4yka.onrender.com/health](https://fs-pokedex-4yka.onrender.com/health)
+- **Version Endpoint**: [https://fs-pokedex-4yka.onrender.com/version](https://fs-pokedex-4yka.onrender.com/version)
 - **Own Pipeline Repository (Exercises 11.21 & 11.22)**: [https://github.com/SoumyA16-git/fullstackopen-bloglist-ci](https://github.com/SoumyA16-git/fullstackopen-bloglist-ci)
 
 ---
